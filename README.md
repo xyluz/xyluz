@@ -10,7 +10,7 @@ I am also a trainer, you can view some of my classes on youtube [here](https://w
 
 I am co-founder of [Zuri Team Limited](http://zuri.team/), and consultant for [Reskill Americans](http://reskillamericans.org/) (a non-profit focused on training of underrepresented individuals in the United States).
 
-You can reach me on twitter [on twitter](https://twitter.com/xyluz)
+You can reach me [on twitter](https://twitter.com/xyluz)
 
 Looking Forward to meeting you!
 
