@@ -2,7 +2,7 @@
 
 Nice to meet you!
 
-I am Seyi Onifade (AMBCS), a software developer. I write PHP, JavaScript, Python and do some devOps and Frontend.
+I am Seyi Onifade, a software developer. I write PHP, JavaScript, Python and do some devOps and Frontend.
 
 I’m currently working on [zuriboard.com](https://zuriboard.com) (a multitenant LMS currently being used by over 10,000 people across 3 organizations - not commercially available yet).
 
