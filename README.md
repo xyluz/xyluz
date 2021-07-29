@@ -8,7 +8,7 @@
 
 Nice to meet you!
 
-I am Seyi Onifade. I write and Teach PHP, JavaScript, Python at [Zuri Team Limited](http://zuri.team/) and [Reskill Americans](http://reskillamericans.org/), I also do some devOps and Frontend.
+I am Seyi Onifade. I write and teach PHP, JavaScript, Python at [Zuri Team Limited](http://zuri.team/) and [Reskill Americans](http://reskillamericans.org/), I also do some devOps and Frontend.
 
 I’m currently working on [zuriboard.com](https://zuriboard.com) (a multitenant LMS currently being used by over 10,000 people across 3 organizations - not commercially available yet).
 
