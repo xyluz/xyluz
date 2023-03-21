@@ -10,7 +10,7 @@ Nice to meet you!
 
 I am Seyi Onifade. I write and teach PHP, JavaScript, Python at [Zuri Team Limited](http://zuri.team/).
 
-I’m currently working on [zuriboard.com](https://zuriboard.com) (a multitenant LMS currently being used by over 10,000 people across 3 organizations - not commercially available yet).
+I’m currently working on [zuriboard.com](https://zuriboard.com) (a multitenant LMS currently being used by over 150,000 people across 6 organizations - not commercially available yet).
 
 You can reach me [on twitter](https://twitter.com/xyluz)
 
